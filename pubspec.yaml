@@ -1,5 +1,5 @@
 name: ytb_short_blocker_app
-description: A new Flutter project.
+description: Prevent mindless scrolling on youtube shorts.
 publish_to: 'none'
 version: 0.1.0
 
