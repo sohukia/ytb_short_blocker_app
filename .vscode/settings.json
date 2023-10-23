@@ -1,3 +1,15 @@
 {
-  "cmake.configureOnOpen": false
+  "cmake.configureOnOpen": false,
+  "fileHeaderComment.template":{
+    "*":[
+        "${commentbegin}",
+        "${commentprefix} Created on ${date}",
+        "${commentprefix}",
+        "${commentprefix} ${gpl_v3.0}",
+        "${commentend}"
+    ]
+  },
+  "files.trimTrailingWhitespace": true,
+  
+
 }
